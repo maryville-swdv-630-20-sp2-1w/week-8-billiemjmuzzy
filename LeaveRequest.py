@@ -1,3 +1,5 @@
+# Created by Ben Muzzy
+
 class LeaveRequest():
     def __init__(self, employee, hours, requested):
         self.employee_name = employee
